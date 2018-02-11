@@ -1,0 +1,15 @@
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+Z:\Практика C#\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+Z:\Практика C#\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\Temp\Practice_OOP_Lab1\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

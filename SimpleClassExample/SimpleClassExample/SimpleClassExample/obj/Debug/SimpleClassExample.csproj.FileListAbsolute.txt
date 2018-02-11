@@ -1,0 +1,6 @@
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\GIT\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

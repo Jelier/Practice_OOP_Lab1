@@ -1,0 +1,16 @@
+Z:\Практика C#\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+Z:\Практика C#\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+Z:\Практика C#\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+Z:\Практика C#\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+Z:\Практика C#\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+Z:\Практика C#\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+Z:\Практика C#\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Temp\Practice_OOP_Lab1\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\GIT\Practice\Practice_OOP_Lab1-master\Practice_OOP_Lab1-master\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
